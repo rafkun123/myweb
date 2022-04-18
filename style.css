@@ -281,6 +281,7 @@
   position: relative;
   height: 300px;
   min-width: 30%;
+  justify-content: center;
 }
 
 * body .skills .container div img {
