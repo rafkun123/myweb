@@ -208,7 +208,7 @@
   height: 50%;
   border-radius: 5px 5px 0px 0px;
   opacity: 0.9;
-  background-image: url(/pictures/hands-gd1b450934_640.jpg);
+  background-image: url(hands-gd1b450934_640.jpg);
 }
 
 * body .aboutMe .cardWrapper .card .card2 {
@@ -218,7 +218,7 @@
   height: 50%;
   border-radius: 5px 5px 0px 0px;
   opacity: 0.9;
-  background-image: url(/pictures/old-town-gcd0261dd8_640.jpg);
+  background-image: url(old-town-gcd0261dd8_640.jpg);
 }
 
 * body .aboutMe .cardWrapper .card .card3 {
@@ -228,7 +228,7 @@
   height: 50%;
   border-radius: 5px 5px 0px 0px;
   opacity: 0.9;
-  background-image: url(/pictures/cat-gb9c283511_640.jpg);
+  background-image: url(cat-gb9c283511_640.jpg);
 }
 
 * body .aboutMe .cardWrapper .card h3 {
@@ -322,13 +322,13 @@
     transition: transform .5s, -webkit-transform .5s;
   }
   * body section .cardWrapper .card .card1 {
-    background-image: url(/pictures/hands-g4e4853830_1920.jpg);
+    background-image: url(hands-g4e4853830_1920.jpg);
   }
   * body section .cardWrapper .card .card2 {
-    background-image: url(/pictures/old-town-gfd6c6c316_1920.jpg);
+    background-image: url(old-town-gfd6c6c316_1920.jpg);
   }
   * body section .cardWrapper .card .card3 {
-    background-image: url(/pictures/cat-gf82cb279e_1920.jpg);
+    background-image: url(cat-gf82cb279e_1920.jpg);
   }
   * body section .cardWrapper .card:hover {
     -webkit-transform: scale(1.05);
@@ -371,4 +371,3 @@
     font-size: 35px;
   }
 }
-/*# sourceMappingURL=style.css.map */
